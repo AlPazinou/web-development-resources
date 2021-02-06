@@ -212,6 +212,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/) |  
 | [Dev Ed](https://www.youtube.com/c/DevEd/) |
 | [Kevin Powell](https://youtube.com/kepowob) |
+| [Oussama ElZero](https://www.youtube.com/user/OsamaElzero) | a great web school for arabic content
+
 
 [⬆ back to top](#table-of-contents)
 
